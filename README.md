@@ -7,7 +7,7 @@ Langkah 2 : Tambahkan library 'com.github.worker8:tourguide:1.0.16-SNAPSHOT@aar'
 
 Langkah 2 : Sync Now Gradle nya, pastikan tidak ada error saat Sync Now Gradlenya. <br>
 Langkah 3 : Buka file activity_main.xml, kemudian tambahkan tombol yang mau dibikin Tour Guide.<br>
->> <img src = "https://raw.githubusercontent.com/syahrulhajji/TourGuideTutorial/master/Activity_Main.JPG" width = "700" height = "500"/> <br>
+>> <img src = "https://raw.githubusercontent.com/syahrulhajji/ProjectTourGuideTutorial/0ef9654a25fb55adc529e6d5ab3aab1b0e983c60/Activity_Main.JPG" width = "700" height = "500"/> <br>
 
 Langkah 4 : Buka file MainActivity.java, kemudian tambahkan code java. 
 >> <img src = "https://raw.githubusercontent.com/syahrulhajji/TourGuideTutorial/master/MainActivity.JPG" width = "500" height = "300"/> <br>
